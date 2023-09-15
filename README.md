@@ -16,20 +16,59 @@
 </ul>
 <h2></h2>
 
-<h4 align="left">Languages:</h4>
-<p align="left"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"alt="C" width="40" height="40" ></a>
-</p>
+> Tools, languages, and other things that I like to work with.
 
-<h4 align="left">Tools:</h4>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="andriod studio" width="40" height="40"></a>
-<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://eclipseide.org/favicon.ico" alt="eclipse" width="40" height="40"></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/favicon.ico" alt="VScode" width="40" height="40"></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-
-<h2></h2>
-
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="https://code.visualstudio.com/favicon.ico" width="48" height="48" alt="VSCode" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96"> 
+      <a href="" >
+        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" width="48" height="48" alt="InteliJ" />
+      </a>
+      <br>InteliJ
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+  </tr>
+</table>
 
 <h4 align="left">Connect with me on LinkedIn: <a href="https://linkedin.com/in/rayanbouhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayanbouhal" height="30" width="40" /></a></h4>
