@@ -40,9 +40,9 @@
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
+        <img src="[https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg)" width="48" height="48" alt="Google Colab" />
       </a>
-      <br>Dart
+      <br>Google Colab
     </td>
     <td align="center" width="96">
       <a href="" >
