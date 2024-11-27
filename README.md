@@ -5,7 +5,7 @@
     My name is Rayan
   </li>
   <li>
-    I am a 3rd yr Computer Science student <a href="https://cs.vt.edu"><img src="https://clipart-library.com/2023/Business20man20working-284998.png" width="35"> </a>
+    I am a Computer Science graduate student <a href="https://cs.vt.edu"><img src="https://clipart-library.com/2023/Business20man20working-284998.png" width="35"> </a>
   </li>
   <li>
     Studying at Virgina Tech <a href="https://vt.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45"></a>
