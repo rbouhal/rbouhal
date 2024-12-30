@@ -34,9 +34,9 @@
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="48" height="48" alt="C" />
+        <img src="https://logodix.com/logo/1614368.png" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>C
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <a href="">
@@ -58,15 +58,15 @@
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" width="48" height="48" alt="Android Studio" />
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="48" height="48" alt="React" />
       </a>
-      <br>Android Studio
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="" >
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Flutter
+      <br>JavaScript
     </td>
   </tr>
 </table>
