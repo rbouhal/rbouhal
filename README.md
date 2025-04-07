@@ -2,9 +2,6 @@
 <h3> About Me:</h3>
 <ul >
   <li>
-    My name is Rayan
-  </li>
-  <li>
     I am a Computer Science graduate student <a href="https://cs.vt.edu"><img src="https://clipart-library.com/2023/Business20man20working-284998.png" width="35"> </a>
   </li>
   <li>
