@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=26&pause=1000&color=2dba4e&width=485&height=100&lines=Hello+World!+I'm+Rayan;Welcome+to+my+GitHub+%3A)" alt="Typing SVG" /></a> </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=26&pause=1000&color=ffffff&width=485&height=100&lines=Hello+World!+I'm+Rayan;Welcome+to+my+GitHub+%3A)" alt="Typing SVG" /></a> </p>
 <h3> About Me:</h3>
 <ul >
   <li>
@@ -68,4 +68,4 @@
   </tr>
 </table>
 
-<h4 align="center">Connect with me on LinkedIn:  <a href="https://linkedin.com/in/rayanbouhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayanbouhal" height="30" width="40" /></a></h4>
+<h4 align="center">Connect with me on LinkedIn:  <a href="https://linkedin.com/in/rayanbouhal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rayanbouhal" height="40" /></a></h4>
