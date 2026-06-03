@@ -2,13 +2,13 @@
 <h3> About Me:</h3>
 <ul >
   <li>
-    I am a Computer Science graduate student <a href="https://cs.vt.edu"><img src="https://clipart-library.com/2023/Business20man20working-284998.png" width="35"> </a>
+    I am a Software Engineer <a href="https://github.com/rbouhal"><img src="https://clipart-library.com/2023/Business20man20working-284998.png" width="35"> </a>
   </li>
   <li>
-    Studying at Virgina Tech <a href="https://vt.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45"></a>
+    Double Hokie <a href="https://cs.vt.edu/"><img src="https://clipart-library.com/8300/1931/Graduation_Cap_and_Diploma_PNG_Transparent_Clipart.png" width="35"> </a>
   </li>
   <li>
-    I like football <a href="https://www.fcbarcelona.com/en/football/first-team/standings"><img src="https://www.pngmart.com/files/21/Football-PNG-Isolated-HD.png" width="27"></a>
+    Lifelong Barça Fan <a href="https://www.fcbarcelona.com/en/football/first-team/standings"><img src="https://www.pngmart.com/files/21/Football-PNG-Isolated-HD.png" width="27"></a>
   </li>
 </ul>
 <h2></h2>
@@ -19,51 +19,51 @@
   <tr>
     <td align="center" width="96">
       <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://logodix.com/logo/1614368.png" width="48" height="48" alt="Spring Boot" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab" />
-      </a>
-      <br>Google Colab
-    </td>
-    <td align="center" width="96">
-      <a href="" >
-        <img src="https://code.visualstudio.com/favicon.ico" width="48" height="48" alt="VSCode" />
-      </a>
-      <br>VS Code
+      <br>TensorFlow
     </td>
     <td align="center" width="96"> 
       <a href="" >
-        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" width="48" height="48" alt="InteliJ" />
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
       </a>
-      <br>InteliJ
+      <br>OpenCV
+    </td>
+    <td align="center" width="96"> 
+      <a href="" >
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="48" height="48" alt="React" />
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       </a>
-      <br>React
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       </a>
-      <br>JavaScript
+      <br>AWS
     </td>
   </tr>
 </table>
