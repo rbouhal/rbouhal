@@ -5,7 +5,7 @@
     I am a Software Engineer <a href="https://github.com/rbouhal"><img src="https://clipart-library.com/2023/Business20man20working-284998.png" width="35"> </a>
   </li>
   <li>
-    Double Hokie <a href="https://cs.vt.edu/"><img src="https://clipart-library.com/8300/1931/Graduation_Cap_and_Diploma_PNG_Transparent_Clipart.png" width="35"> </a>
+    2x Hokie Alum <a href="https://cs.vt.edu/"><img src="https://clipart-library.com/8300/1931/Graduation_Cap_and_Diploma_PNG_Transparent_Clipart.png" width="35"> </a>
   </li>
   <li>
     Lifelong Barça Fan <a href="https://www.fcbarcelona.com/en/football/first-team/standings"><img src="https://www.pngmart.com/files/21/Football-PNG-Isolated-HD.png" width="27"></a>
